@@ -1,0 +1,11 @@
+---
+date: 2021-05-10
+description: "Submitted (available upon request)"
+featured_image: ""
+tags: ["Brazil", "Regional Order", "South America", "Hegemony", "Regional Systems"]
+title: "Brazil’s Lost Pathway to Hegemony: Macro-historical changes and the South American regional structure"
+---
+
+(with [Igor Castellano da Silva](https://scholar.google.com/citations?user=8dbsV-wAAAAJ&hl=en&oi=ao))
+
+**Abstract**: This article addresses the systemic and macro-historical meaning of the preponderant position of Brazil in South America. While the literature on the topic focuses mainly on Foreign Policy and interactional dynamics, we propose an explanation focused on regional structural changes. To advance in this task, our analysis departs from three theoretical frameworks: (i) a theory of systemic complexity and of macro-historical changes; and (ii) a theory of systemic structural types which addresses relations among distinct structural elements. We evaluate the processes of change and continuity in the South American regional system in the post-independence period, identifying four periods of regional structural transformation: 1) anarchical system formation (1810-1870s); 2) anarchical stability (1880-1930s); 3) hegemonic transition (1940-2000s), and 4) hegemonic stabilization (2000-2010s). We argue that the Brazilian predominance during the last decades means, more deeply, changes in the structure of the regional system. Our findings shows that Brazil’s role in the region is an outcome of an ongoing process of hegemonic stabilization, characterized by (i) a unipolar distribution of power; (ii) a governance regional order; and the tendency to (iii) a hegemonic ordering principle. Despite the existence of structural conditions to the configuration of a hegemonic ordering principle centered on the role of Brazil, the country lost the opportunity to embrace a position as a regional hegemon. The adoption of process tracing and historical comparative methods helps the task of organizing the causal chains to evaluate Brazil’s lost pathway to hegemony.

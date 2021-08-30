@@ -1,0 +1,11 @@
+---
+date: 2021-07-14
+description: "Working Paper"
+featured_image: ""
+tags: ["Material Power", "Defense Industry", "Foreign Policy", "International Status"]
+title: "Moving up the ranks: Material Capabilities, Defense Industry, and International Status in the cases of the US, India, and Brazil"
+---
+
+(with [Júlio César Cossio Rodrigues](https://scholar.google.com/citations?user=1peqV1cAAAAJ&hl=en&oi=ao) &  [Julio Werle Berwaldt](https://scholar.google.com/citations?user=kAwOvZUAAAAJ&hl=en))
+ 
+**Abstract**: Why material capabilities matter to seek status? Which elements guarantee higher status and more sustainable insertion strategies? By analyzing the role of material power in the international insertion of the US, India, and Brazil, this paper aims to deal with some gray areas of this discussion. The debate about material capabilities and international status is indirectly related to the definition of the most relevant power attributes in the construction of tangible power capabilities through foreign policy strategies. In this sense, it is expected that different power attributes and foreign policy goals comprise different international status positions. Comparing the role of material power in the international status of the US, India, and Brazil, we argue that strong material power is necessary to consolidate a stable and lasting strategy of international insertion. A model of international insertion based on a matrix of strong material power usually comes with strong investment in Defense Industries, which requires R&D stability and institutional arrangements that can enable agents to effectively allocate resources, absorb technology and promote innovation. Our study shows that the development of national defense industries implies positive variations in both the material power and international status of those states. Our findings suggest that when grounded in immaterial factors such as cultural diplomacy and/or soft power, without a strong basis of material power, international insertion strategies present a volatile nature and short time duration, not translating into higher status positions.

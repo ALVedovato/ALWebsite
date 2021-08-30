@@ -1,0 +1,53 @@
+pre, .pre  {
+  overflow-x: auto;
+  overflow-y: hidden;
+  overflow:   scroll;
+}
+
+
+pre  code {
+  display: block;
+  padding: 1.5em 1.5em;
+  white-space: pre;
+  font-size: .875rem;
+  line-height: 2;
+
+}
+
+pre {
+  background-color: #222;
+  color: #ddd;
+  white-space: pre;
+
+  hyphens: none;
+  position: relative;
+}
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 1.0rem;  
+    margin-left: -2.5rem;  
+    margin-top: -0.6rem;
+    margin-bottom: -0.5rem;   /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 1.0rem;
+    margin-right: -3.0rem;
+    margin-top: -0.5rem;
+    margin-bottom: -0.5rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
