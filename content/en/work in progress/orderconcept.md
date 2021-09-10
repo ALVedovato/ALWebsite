@@ -2,7 +2,7 @@
 date: 2021-08-13
 description: "Working Paper"
 featured_image: "/images/orderbridgesgephi.jpeg"
-tags: ["International order", "International Relations Theory", "Metatheory", "Concept analysis", "Larry Laudan"]
+tags: ["International order", "International Relations Theory", "Metatheory", "Concept analysis", "Network analysis", "Larry Laudan"]
 title: "Framing Orders Through Bridges: the concept of International Order and metatheories of International Relations"
 ---
 (with [Igor Castellano da Silva](https://scholar.google.com/citations?user=8dbsV-wAAAAJ&hl=en&oi=ao) & Arthur L. Mallmann)
