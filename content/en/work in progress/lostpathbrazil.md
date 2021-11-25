@@ -3,7 +3,7 @@ date: 2021-05-10
 description: "Submitted (available upon request)"
 featured_image: ""
 tags: ["Brazil", "Regional Order", "South America", "Hegemony", "Regional Systems"]
-title: "Brazil’s Lost Pathway to Hegemony: Macro-historical changes and the South American regional structure"
+title: "Brazil’s lost pathway to regional hegemony: structural changes in the South American regional system (1810-2010s)"
 ---
 
 (with [Igor Castellano da Silva](https://scholar.google.com/citations?user=8dbsV-wAAAAJ&hl=en&oi=ao))
