@@ -6,9 +6,9 @@ omit_header_text: false
 ---
 ## Peer-reviewed publications
 
-- (with Alessandra Jungs de Almeida) 2023. [“International Relations Beyond the University Environment: Popular Education as a Method for Communicating the Field”](https://doi.org/10.35700/2359-0599.2023.17.3464). *Caminho Aberto: Revista de Extensão do IFSC*, 17:1–24. https://doi.org/10.35700/2359-0599.2023.17.3464 (in Portuguese)
+- (with Alessandra Jungs de Almeida) 2023. [“International Relations Beyond the University Environment: Popular Education as a Method for Communicating the Field”](https://doi.org/10.35700/2359-0599.2023.17.3464). *Caminho Aberto: Revista de Extensão do IFSC*, 17:1–24. doi:10.35700/2359-0599.2023.17.3464 (in Portuguese)
 
-- (with Igor Castellano da Silva) 2022. “Brazil’s lost pathway to regional hegemony:structural changes in the South American regional system (1810–2010s)”. *Colombia Internacional* (forthcoming).
+- (with Igor Castellano da Silva) 2022. “Brazil’s lost pathway to regional hegemony: structural changes in the South American regional system (1810–2010s)”. *Colombia Internacional*, 111:171-199. doi:10.7440/colombiaint111.2022.07
 
 - (with Igor Castellano da Silva) 2019. [“The state as the unit of analysis in regional systems: effects on the systemic structure of South America”](href{https://doi.org/10.22456/1982-5269.88730) *Revista Debates*, 13(1):195-222. doi:10.22456/1982-5269.88730 (in Portuguese)
 
