@@ -36,14 +36,11 @@ omit_header_text: false
 
 - (with Igor Castellano da Silva and Arthur Lersch Mallmann) [“Framing Orders Through Bridges: International Orders and Theoretical Traditions”](/work-in-progress/orderconcept/).
 
-- (with Igor Castellano da Silva) [“Brazil’s Lost Pathway to Hegemony: Structural changes and the South American regional system (1810-2010s)”](/work-in-progress/lostpathbrazil/).
-
 ### In preparation
 
 - (with Júlio César Cossio Rodriguez and Julio Werle Berwaldt) [“Material Capabilities, Defense Industries and International Status: a comparative analysis of the cases of the US, India and Brazil”](/work-in-progress/matcapstatus/).
 
-- (with Alessandra Jungs de Almeida) [“Women’s activism in Liberia: civil war mediation and the
-peacebuilding process”](/work-in-progress/liberia/)
+- (with Alessandra Jungs de Almeida) [“Women’s activism in Liberia: civil war mediation and the peacebuilding process”](/work-in-progress/liberia/)
 
 - [“The Missing Intersections between IR Theory and Historical Sociology: War, Order and Change in International Systems”](/work-in-progress/irhistoricalsociology/).
 
