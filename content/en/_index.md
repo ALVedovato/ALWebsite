@@ -1,6 +1,6 @@
 ---
 title: ""
-featured_image: '/images/forte.PNG'
+featured_image: '/images/avrio.JPG'
 description: ""
 omit_header_text: true
 ---
