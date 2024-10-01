@@ -2,12 +2,12 @@
 title: Contact
 featured_image: ''
 omit_header_text: true
-description: We'd love to hear from you
+description: 
 type: page
 menu: main
 
 ---
 
-Please feel free to contact me using the form below or by email: ana.vedovato@ufrgs.br.
+Please feel free to contact me using the form below or by email: ana.vedovato@u.northwestern.edu.
 
 {{< form-contact action="https://formspree.io/f/moqypjyk"  >}}
