@@ -1,7 +1,7 @@
 ---
 title: Talks
 featured_image: ""
-omit_header_text: true
+omit_header_text: false
 description:
 type: page
 menu: main
