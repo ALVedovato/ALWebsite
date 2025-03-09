@@ -4,6 +4,7 @@ description: "New Project"
 featured_image: ""
 tags: ["Latin America", "Material Power", "Foreign Policy", "International Status"]
 title: "The autonomy trap: the dilemma of Latin American status-seeking strategies"
+type: article
 ---
 
 (with [Júlio César Cossio Rodrigues](https://scholar.google.com/citations?user=1peqV1cAAAAJ&hl=en&oi=ao))
