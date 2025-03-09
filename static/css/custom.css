@@ -4,17 +4,12 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 /* Change normal link color */
 a {
-    color: #cc0052; /* Change to your preferred color */
+    color: #4E2A84; /* Change to your preferred color */
     text-decoration: none; /* Optional: removes the underline */
 }
 
 /* Change link color when hovered over */
 a:hover {
-    color: #35c93f; /* Change to a darker/lighter shade */
+    color: #836EAA; /* Change to a darker/lighter shade */
     text-decoration: underline; /* Optional: adds an underline on hover */
-}
-
-/* Change link color for visited links */
-a:visited {
-    color: #551A8B; /* Adjust as needed */
 }
