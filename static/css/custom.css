@@ -5,13 +5,13 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 /* Change normal link color */
 a {
-    color: #4E2A84; /* Change to your preferred color */
+    color: #4E2A84 !important; /* Change to your preferred color */
     text-decoration: none; /* Optional: removes the underline */
 }
 
 /* Change link color when hovered over */
 a:hover {
-    color: #836EAA; /* Change to a darker/lighter shade */
+    color: #836EAA !important; /* Change to a darker/lighter shade */
     text-decoration: underline; /* Optional: adds an underline on hover */
 }
 
