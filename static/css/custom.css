@@ -12,7 +12,7 @@ a {
 /* Change link color when hovered over */
 a:hover {
     color: #836EAA; /* Change to a darker/lighter shade */
-    text-decoration: underline; /* Optional: adds an underline on hover */
+    text-decoration: wavy underline; /* Optional: adds an underline on hover */
 }
 
 /* Change normal link color */
