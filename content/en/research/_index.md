@@ -4,7 +4,7 @@ description: ""
 featured_image: '/images/avrio.JPG'
 omit_header_text: false
 ---
-## Peer-reviewed publications
+### Peer-reviewed publications
 
 - (with Alessandra Jungs de Almeida) 2023. [“International Relations Beyond the University Environment: Popular Education as a Method for Communicating the Field”](https://doi.org/10.35700/2359-0599.2023.17.3464). *Caminho Aberto: Revista de Extensão do IFSC*, 17:1–24. doi:10.35700/2359-0599.2023.17.3464 (in Portuguese)
 
@@ -14,17 +14,17 @@ omit_header_text: false
 
 - (with Danielle Jacon Ayres Pinto) 2016. [“Regional Integration and Brazil's influence in the South American region”](https://repositorio.ual.pt/bitstream/11144/2974/1/3.22_AyresPinto_Vedovato_Brasil.pdf). *JANUS-NET, e-journal of International Relations*, 17(1):144-145. (in Portuguese)
 
-## Edited books
+### Edited books
 
 - (edited with Danielle Jacon Ayres Pinto, Elany Almeida de Souza, Daniela Sallet Lunkes and Juliano dos Santos Bravo). 2018. [Contemporary International Politics: themes and debates](https://www.amazon.com.br/Pol%C3%ADtica-Internacional-Contempor%C3%A2nea-Temas-Debates/dp/8551808214). Macapá: UNIFAP. (in Portuguese)
 
-## Chapters in edited volumes
+### Chapters in edited volumes
 
 - (with Júlio César Cossio Rodriguez and Julio Werle Berwaldt) 2020. “Material Capabilities, Defense Industry and International Insertion”. In: [*Poles of Defense and Security: State, Institutions and Innovation*](https://editoraufsm.com.br/polos-de-defesa-e-seguranca.html). Santa Maria: Editora UFSM. (in Portuguese)
 
 - (with Danielle Jacon Ayres Pinto) 2018. “Smart Power Dimensions in South America: the leadership role of Brazil in regional integration”. In: [*Contemporary International Politics: themes and debates*](https://www.amazon.com.br/Pol%C3%ADtica-Internacional-Contempor%C3%A2nea-Temas-Debates/dp/8551808214). Macapá: UNIFAP. (in Portuguese)
 
-## Other publications
+### Other publications
 
 - (with Adriana Erthal Abdenur) 2016. Interview: [“Women, International Relations and their participation in International Peace, Security and Defense”](https://doi.org/10.5902/2357797527468). *Revista InterAção*, 10(201):8-15. [doi:10.5902/2357797527468](https://doi.org/10.5902/2357797527468) (in Portuguese) 
 
