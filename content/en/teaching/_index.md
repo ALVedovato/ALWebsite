@@ -1,9 +1,8 @@
 ---
 title: Teaching
-featured_image: ""
+featured_image: '/images/avrio.JPG'
 omit_header_text: false
-description:
-type: page
+description: ""
 ---
 
 ### Teaching Assistant, Department of Political Science, Northwestern University
@@ -26,4 +25,3 @@ type: page
 - Mentor/Advisor, English Language Programs, Northwestern University (ELP-NU) 2023 – 2024
 - Mentor/Advisor, Brazilian Students Association (BRASA) 2022 – 2024
 - Mentor/Advisor, Mentoring Program for International Relations Students (PROMERI) 2019 – 2024
-
