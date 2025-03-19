@@ -7,6 +7,7 @@ description: ""
 
 ### Teaching Assistant, Department of Political Science, Northwestern University
 
+- Politics of Latin America, Professor Edward Gibson (Spring 2025)
 - Introduction to International Relations, Professor Dani Gilbert (Winter 2025)
 - American Government and Politics, Professor Chloe Thurston (Fall 2024)
 - Introduction to International Relations, Professor Ian Hurd (Spring 2024)
