@@ -5,7 +5,7 @@ description: ""
 omit_header_text: true
 ---
 
-{{< figure src="/images/av.png#floatright" width="170">}}
+{{< figure src="/images/av.png#floatright" width="200">}}
 
 I'm a Political Science Ph.D. candidate at Northwestern University. I hold an M.A. in International Strategic Studies from the Federal University of Rio Grande do Sul ([UFRGS](http://ufrgs.br/)) and a B.A. in International Relations from the Federal University of Santa Maria ([UFSM](https://www.ufsm.br/)), both in Brazil. 
 
