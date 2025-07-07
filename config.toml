@@ -23,6 +23,7 @@ enableRobotsTXT = true
 
 [params]
   custom_css = ["css/custom.css"]
+  text_color = "green"
   favicon = "/images/avicon.png"
   site_logo = "/images/avwhite.png"
   description = "Welcome! I am Ana Luiza Vedovato and this is my academic website."
